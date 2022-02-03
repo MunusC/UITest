@@ -3,7 +3,7 @@ Betway Assessment execution steps :
 Prerequisites : 
 1) JDK 8 should be available in the system and JAVA_HOME should point to a JDK
    e.g. - > setx -m JAVA_HOME "C:\Progra~1\Java\jdk1.8.0_XX"
-2) Follow the steps below to configure maven 
+2) Follow the steps below to configure maven  
       a)Visit Maven official website and download the Maven zip file, e.g. apache-maven-3.6.0-bin.zip
       b)Unzip it to a folder. e.g. c:\opt\apache-maven-3.6.0
       c)Add MAVEN_HOME system variable, and point it to the Maven folder.
