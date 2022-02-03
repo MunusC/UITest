@@ -78,7 +78,7 @@ public class HomePage extends Helpers {
 			// adds default message to the extent report
 			addStepLogHeader();
 			// adds the input message to extent report
-			addStepLog("Actual and Expected Message are equal : <br>" + error);
+			addStepLog("Actual and Expected Message is equal : <br>" + error);
 		} else {
 
 			addStepLog("Expected  error should be :<br>" + expectedError);
